@@ -1,0 +1,8 @@
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\bin\Release\grafikoaDll.dll
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\bin\Release\grafikoaDll.pdb
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.csproj.AssemblyReference.cache
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.Grafikoaren_kontrola.resources
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.csproj.GenerateResource.cache
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.csproj.CoreCompileInputs.cache
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.dll
+C:\Users\agirrezabala.peru\Desktop\interfaze_ethazi\pcboxproba\grafikoaDll\obj\Release\grafikoaDll.pdb

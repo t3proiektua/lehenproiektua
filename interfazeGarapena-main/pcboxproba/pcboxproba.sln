@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcboxproba", "pcboxproba\pcboxproba.csproj", "{47DF466E-4618-4D71-93F3-FB4ABA16580C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grafikoaDll", "grafikoaDll\grafikoaDll.csproj", "{74D94A2D-57CE-4201-BC7E-E3E2DED30FBA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pcBoxSetup", "pcBoxSetup\pcBoxSetup.vdproj", "{F2B54FBC-EC8E-4459-9121-D9725599BC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DF466E-4618-4D71-93F3-FB4ABA16580C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DF466E-4618-4D71-93F3-FB4ABA16580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DF466E-4618-4D71-93F3-FB4ABA16580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DF466E-4618-4D71-93F3-FB4ABA16580C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D94A2D-57CE-4201-BC7E-E3E2DED30FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D94A2D-57CE-4201-BC7E-E3E2DED30FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D94A2D-57CE-4201-BC7E-E3E2DED30FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D94A2D-57CE-4201-BC7E-E3E2DED30FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B54FBC-EC8E-4459-9121-D9725599BC95}.Debug|Any CPU.ActiveCfg = Debug
+		{F2B54FBC-EC8E-4459-9121-D9725599BC95}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA81179-0686-44EC-A54D-CA57D22AAAA3}
+	EndGlobalSection
+EndGlobal

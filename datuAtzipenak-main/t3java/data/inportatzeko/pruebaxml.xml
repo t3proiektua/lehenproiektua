@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Produktuak>
+    <Produktua id="10">
+        <produktua>Cascos Tempest</produktua>
+        <deskribapena>Tempest GHS300 Khan Auriculares Gaming RGB 7.1 PC/PS4/PS5</deskribapena>
+        <prezioa>36.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="11">
+        <produktua>Pantallas Asus TUF</produktua>
+        <deskribapena>Asus TUF Gaming VG249Q1R 23.8" LED IPS FullHD 165Hz FreeSync Premium</deskribapena>
+        <prezioa>160.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+</Produktuak>

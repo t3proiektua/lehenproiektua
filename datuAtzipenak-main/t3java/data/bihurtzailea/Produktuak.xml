@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Produktuak>
+    <Produktua id="0">
+        <produktua>Logitech G Inalámbrico 25600DPI</produktua>
+        <deskribapena>null</deskribapena>
+        <prezioa>109.81</prezioa>
+        <kantitatea>200.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="1">
+        <produktua>Logitech G815 Teclado Mecánico</produktua>
+        <deskribapena>null</deskribapena>
+        <prezioa>165.11</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="2">
+        <produktua>Logitech B100 Raton</produktua>
+        <deskribapena>null</deskribapena>
+        <prezioa>10.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="3">
+        <produktua>Acer Predator Orion 3000 PO3-640 Intel Core i5-12400F/16GB/1TB SSD/RTX 3070</produktua>
+        <deskribapena>PO3-640 Intel Core i5-12400F/16GB/1TB SSD/RTX 3070</deskribapena>
+        <prezioa>1400.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="4">
+        <produktua>Acer Nitro XZ322QUSbmiipphx 31.5" LED WQHD 165Hz FreeSync Premium Curvo</produktua>
+        <deskribapena>Acer Nitro XZ322QUSbmiipphx 31.5" LED WQHD 165Hz FreeSync Premium Curvo</deskribapena>
+        <prezioa>270.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="5">
+        <produktua>Fuente de alimentacion Tempest</produktua>
+        <deskribapena>Tempest PSU 750W Fuente de Alimentación</deskribapena>
+        <prezioa>36.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="6">
+        <produktua>Portatil MSI Katana</produktua>
+        <deskribapena>MSI Katana GF66 12UD-081XES Intel Core i7-12700H/16GB/512GB SSD/RTX3050Ti/15.6"</deskribapena>
+        <prezioa>1100.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="7">
+        <produktua>Cascos Tempest</produktua>
+        <deskribapena>Tempest GHS300 Khan Auriculares Gaming RGB 7.1 PC/PS4/PS5</deskribapena>
+        <prezioa>36.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="8">
+        <produktua>Pantallas Asus TUF</produktua>
+        <deskribapena>Asus TUF Gaming VG249Q1R 23.8" LED IPS FullHD 165Hz FreeSync Premium</deskribapena>
+        <prezioa>160.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="9">
+        <produktua>Anticipo</produktua>
+        <deskribapena>null</deskribapena>
+        <prezioa>1.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="10">
+        <produktua>ASUS VivoBook Pro 15 OLED</produktua>
+        <deskribapena>ASUS VivoBook Pro 15 OLED M6500QC-L1010W AMD Ryzen 7 5800H/16GB/512GB SSD/RTX 3050/15.6"</deskribapena>
+        <prezioa>959.0</prezioa>
+        <kantitatea>100.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="11">
+        <produktua>MSI MAG META S</produktua>
+        <deskribapena>MSI MAG META S 5SI-044XES AMD Ryzen 5 5600X/16GB/512GB SSD/GTX 1660 SUPER</deskribapena>
+        <prezioa>1000.0</prezioa>
+        <kantitatea>-80.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="12">
+        <produktua>MSI Pulse GL76</produktua>
+        <deskribapena>MSI Pulse GL76 12UEK-245XES Intel Core i9-12900H/32GB/1TB SSD/RTX 3060/17.3"</deskribapena>
+        <prezioa>1800.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="13">
+        <produktua>Newskill Icarus RGB</produktua>
+        <deskribapena>Newskill Icarus RGB IC27QRC 27" LED QuadHD 165Hz G-Sync Compatible</deskribapena>
+        <prezioa>260.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="14">
+        <produktua>Cascos Tempest GHS PRO</produktua>
+        <deskribapena>Tempest GHS PRO 20 Emperor Auriculares Gaming RGB Wireless 7.1 PC/PS4/PS5/Switch</deskribapena>
+        <prezioa>55.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="15">
+        <produktua>Tempest K10 RGB</produktua>
+        <deskribapena>Tempest K10 RGB Teclado Mecánico Gaming Switch Blue</deskribapena>
+        <prezioa>41.0</prezioa>
+        <kantitatea>-1.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="16">
+        <produktua>EVGA SuperNOVA</produktua>
+        <deskribapena>EVGA SuperNOVA 650 G6 650W 80 Plus Gold Full Modular</deskribapena>
+        <prezioa>110.0</prezioa>
+        <kantitatea>-10.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+    <Produktua id="17">
+        <produktua>Tarjeta grafica RTX 3060</produktua>
+        <deskribapena>MSI GeForce RTX 3060 VENTUS 2x OC LHR 12GB GDDR6</deskribapena>
+        <prezioa>470.0</prezioa>
+        <kantitatea>-10.0</kantitatea>
+        <saltzekoPrest>true</saltzekoPrest>
+    </Produktua>
+</Produktuak>

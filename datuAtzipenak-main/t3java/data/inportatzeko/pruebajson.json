@@ -1,0 +1,18 @@
+[
+    {
+        "id": 43,
+        "produktua": "Z490",
+        "deskribapena": "MSI MAG Z490 TOMAHAWK",
+        "prezioa": 160.0,
+        "kantitatea": -1.0,
+        "saltzekoPrest": true
+    },
+    {
+        "id": 44,
+        "produktua": "B550 GAMING",
+        "deskribapena": "Gigabyte B550 GAMING X V2",
+        "prezioa": 121.0,
+        "kantitatea": -1.0,
+        "saltzekoPrest": true
+    }
+]
